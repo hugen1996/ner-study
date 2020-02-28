@@ -8,9 +8,9 @@ bisltm+crf的实现是在参考pytorch的官方教程的基础上，全部换成
 
 
 
-需要下载sogou预训练词向量，地址：http://www.sogou.com/labs/resource/cs.php，将下载的
+需要下载sogou预训练词向量，地址：http://www.sogou.com/labs/resource/cs.php
 
-预训练词向量放入ResumeNER/data文件夹下面
+将下载的预训练词向量放入ResumeNER/data文件夹下面
 
 
 
