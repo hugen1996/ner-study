@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4266ecf2-8898-4079-9313-bf2476fb1542" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UmuPuzRsDaRAyYLVArVCwprs3q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ResumeNER/data" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python\PythonCode\ner-study\ResumeNER\data" />
+      <recent name="C:\Python\PythonCode\ner-study" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.utils (2)">
+    <configuration name="LSTM_CRF_faster (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ner-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LSTM_CRF_faster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lstm_crf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ner-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/lstm_crf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ner-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ner-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ner-study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.utils (2)" />
+        <item itemvalue="Python.utils (1)" />
+        <item itemvalue="Python.lstm_crf" />
+        <item itemvalue="Python.LSTM_CRF_faster (2)" />
+        <item itemvalue="Python.utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4266ecf2-8898-4079-9313-bf2476fb1542" name="Default Changelist" comment="" />
+      <created>1575974070194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575974070194</updated>
+      <workItem from="1575974071433" duration="1542000" />
+      <workItem from="1576033619537" duration="3406000" />
+      <workItem from="1576040904552" duration="1769000" />
+      <workItem from="1576063200251" duration="6138000" />
+      <workItem from="1576153023714" duration="20295000" />
+      <workItem from="1576326172354" duration="411000" />
+      <workItem from="1576468284171" duration="24816000" />
+      <workItem from="1576512277519" duration="1554000" />
+      <workItem from="1576572927622" duration="1996000" />
+      <workItem from="1576576659136" duration="1382000" />
+      <workItem from="1576587621666" duration="11471000" />
+      <workItem from="1581563631678" duration="42000" />
+      <workItem from="1581594591583" duration="30000" />
+      <workItem from="1581594712393" duration="153000" />
+      <workItem from="1581685598419" duration="40077000" />
+      <workItem from="1581997406280" duration="280000" />
+      <workItem from="1581997930424" duration="58896000" />
+      <workItem from="1582291269777" duration="26774000" />
+      <workItem from="1582432868158" duration="28298000" />
+      <workItem from="1582762051183" duration="179000" />
+      <workItem from="1582762241250" duration="2031000" />
+      <workItem from="1582878017932" duration="2028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582298000690">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="514" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576042513243" />
+    <state x="514" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582298000690" />
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582762132494">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1582762132494" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582030011040">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576573718659" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1582030011040" />
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom" timestamp="1582536321448">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576574923814" />
+    <state width="1493" height="283" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582536321448" />
+    <state width="1493" height="283" key="GridCell.Tab.0.center" timestamp="1582536321448">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576574923814" />
+    <state width="1493" height="283" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582536321448" />
+    <state width="1493" height="283" key="GridCell.Tab.0.left" timestamp="1582536321448">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576574923814" />
+    <state width="1493" height="283" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582536321448" />
+    <state width="1493" height="283" key="GridCell.Tab.0.right" timestamp="1582536321448">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576574923814" />
+    <state width="1493" height="283" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582536321448" />
+    <state width="1493" height="267" key="GridCell.Tab.1.bottom" timestamp="1576512195092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.1.bottom/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576486707155" />
+    <state width="1493" height="267" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1576512195092" />
+    <state width="1493" height="267" key="GridCell.Tab.1.center" timestamp="1576512195092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.1.center/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576486707155" />
+    <state width="1493" height="267" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1576512195092" />
+    <state width="1493" height="267" key="GridCell.Tab.1.left" timestamp="1576512195092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.1.left/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576486707154" />
+    <state width="1493" height="267" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1576512195092" />
+    <state width="1493" height="267" key="GridCell.Tab.1.right" timestamp="1576512195092">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.1.right/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576486707155" />
+    <state width="1493" height="267" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1576512195092" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1582878017877">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576576661031" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582878017877" />
+    <state width="400" height="124" key="javadoc.popup.new" timestamp="1582720849596">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="478" height="231" key="javadoc.popup.new/0.0.1536.864/-1440.0.1440.900@0.0.1536.864" timestamp="1576573067454" />
+    <state width="400" height="124" key="javadoc.popup.new/0.0.1536.864@0.0.1536.864" timestamp="1582720849596" />
+    <state x="474" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1582471586594">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="474" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582471586594" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NER_study$LSTM_CRF__1_.coverage" NAME="LSTM_CRF (1) Coverage Results" MODIFIED="1576511117397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NER_study$LSTM_CRF_faster__1_.coverage" NAME="LSTM_CRF_faster (1) Coverage Results" MODIFIED="1576512839454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NER_study$LSTM_CRF_faster.coverage" NAME="LSTM_CRF_faster Coverage Results" MODIFIED="1576573076051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ner_study$utils.coverage" NAME="utils Coverage Results" MODIFIED="1576298642367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NER_study$utils.coverage" NAME="utils Coverage Results" MODIFIED="1576573727097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ner_study$LSTM_CRF_faster.coverage" NAME="LSTM_CRF_faster Coverage Results" MODIFIED="1576298310679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NER_study$LSTM_CRF.coverage" NAME="LSTM_CRF Coverage Results" MODIFIED="1576513626240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NER_study$utils__2_.coverage" NAME="utils (2) Coverage Results" MODIFIED="1582451224807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NER_study$lstm_crf.coverage" NAME="lstm_crf Coverage Results" MODIFIED="1582124590932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/NER_study$utils__1_.coverage" NAME="utils (1) Coverage Results" MODIFIED="1582295752372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ner_study$LSTM_CRF.coverage" NAME="LSTM_CRF Coverage Results" MODIFIED="1576034763987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NER_study$LSTM_CRF_faster__2_.coverage" NAME="LSTM_CRF_faster (2) Coverage Results" MODIFIED="1581756565026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
